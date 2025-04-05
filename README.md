@@ -1,1 +1,1 @@
-# Tiny Collegeorig
+# Tiny College
